@@ -26,7 +26,7 @@ O ciclo Lean Startup é utilizado como mecanismo de aprendizagem validada, com p
 | M4 — Calendário | Janela de lançamento | Ordenação de tarefas e lembretes | Data e contexto de publicação | Agenda semanal |
 | M5 — Análise e iteração | Alcance, retenção, cliques, saves e streams | Resumo comparativo | Decisão manter, adaptar ou arquivar | Registro de aprendizado |
 
-## 5. Desenho de validação até 7 de novembro
+## 5. Desenho de validação contínua
 
 A simulação representa três ciclos de 14 dias. Cada ciclo possui uma hipótese, uma variável principal, um formato de controle e um formato de teste. Para reduzir conclusões indevidas, a comparação deve priorizar métricas relativas ao alcance e à ação do público, não apenas impressões absolutas.
 
@@ -36,7 +36,7 @@ A simulação representa três ciclos de 14 dias. Cada ciclo possui uma hipótes
 | EXP-06 | 10–23 out | Hebraico + tradução aumenta comentários qualificados | Comentários qualificados por mil impressões | Adaptar se houver atenção sem conversão |
 | EXP-07 | 24 out–06 nov | Assinatura vocal natural aumenta salvamentos | Salvamentos por mil reproduções | Incorporar ao calendário se superar o baseline em 20% |
 
-A primeira semana de novembro é reservada para consolidar o relatório, registrar limitações, comparar hipóteses e produzir o playbook. O experimento não deve ser apresentado como causalidade definitiva: o tamanho reduzido da audiência, mudanças de algoritmo e diferenças entre plataformas limitam a inferência.
+A primeira execução pode ser consolidada na primeira semana de novembro como marco acadêmico, mas o plano não possui data de expiração. Cada ciclo encerrado alimenta o próximo, e novos ciclos podem ser criados indefinidamente. O experimento não deve ser apresentado como causalidade definitiva: o tamanho reduzido da audiência, mudanças de algoritmo e diferenças entre plataformas limitam a inferência.
 
 ## 6. Indicadores e dicionário de métricas
 
@@ -52,7 +52,7 @@ A primeira semana de novembro é reservada para consolidar o relatório, registr
 
 ## 7. Metas SMART revisadas
 
-Até 7 de novembro, o laboratório deverá registrar pelo menos três ciclos de teste, 24 ativos avaliados, três decisões de manter/adaptar/arquivar e uma redução documentada do tempo operacional semanal em relação ao baseline. A meta de audiência é secundária e deve ser apresentada como projeção, não como garantia: no cenário central simulado, busca-se sair de 71 para 310 seguidores somados e de 340 para 1.840 streams mensais ao longo do horizonte demonstrativo.
+Em qualquer janela de avaliação escolhida, o laboratório deverá registrar pelo menos três ciclos de teste, 24 ativos avaliados, três decisões de manter/adaptar/arquivar e uma redução documentada do tempo operacional semanal em relação ao baseline. A janela de novembro é apenas o primeiro marco demonstrativo. A meta de audiência é secundária e deve ser apresentada como projeção, não como garantia: no cenário central simulado, busca-se sair de 71 para 310 seguidores somados e de 340 para 1.840 streams mensais ao longo do horizonte demonstrativo.
 
 O critério de sucesso principal é metodológico: **cada ciclo precisa produzir uma decisão baseada em dados**. Se a audiência crescer sem que exista registro de hipótese e decisão, haverá resultado de comunicação, mas não validação do método inovador.
 
