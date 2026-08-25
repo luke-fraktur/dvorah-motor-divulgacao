@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "tipo": "hipotetico-demonstrativo",
+    "periodo": "2026-08-14/2026-11-07",
+    "observacao": "Não representa resultados reais; serve para demonstrar o método de registro e decisão."
+  },
+  "baseline": {
+    "seguidores_somados": 71,
+    "streams_mensais": 340,
+    "publicacoes_semana": 1,
+    "horas_divulgacao_semana": 10,
+    "custo_mensal": 180
+  },
+  "ciclos": [
+    {
+      "id": "EXP-05",
+      "periodo": "2026-09-26/2026-10-09",
+      "persona": "Ouvinte darkwave/cyberpunk",
+      "hipotese": "A estética do lobo de ferro gera compartilhamentos fora do núcleo de metal.",
+      "metrica_primaria": "compartilhamentos_por_alcance",
+      "baseline_controle": 0.021,
+      "resultado_simulado": 0.026,
+      "decisao": "manter com adaptação"
+    },
+    {
+      "id": "EXP-06",
+      "periodo": "2026-10-10/2026-10-23",
+      "persona": "Diáspora e interessados no hebraico",
+      "hipotese": "Hebraico mais tradução aumenta comentários qualificados.",
+      "metrica_primaria": "comentarios_qualificados_por_mil_impressoes",
+      "baseline_controle": 3.2,
+      "resultado_simulado": 4.5,
+      "decisao": "adaptar e repetir"
+    },
+    {
+      "id": "EXP-07",
+      "periodo": "2026-10-24/2026-11-06",
+      "persona": "Fã de metal extremo",
+      "hipotese": "A assinatura vocal natural aumenta salvamentos.",
+      "metrica_primaria": "salvamentos_por_mil_reproducoes",
+      "baseline_controle": 18,
+      "resultado_simulado": 23,
+      "decisao": "incorporar ao calendario"
+    }
+  ],
+  "projecao_mensal": [
+    { "mes": "ago", "seguidores": 71, "streams": 340, "status": "baseline" },
+    { "mes": "set", "seguidores": 145, "streams": 820, "status": "hipotese" },
+    { "mes": "out", "seguidores": 310, "streams": 1840, "status": "hipotese" },
+    { "mes": "nov", "seguidores": 520, "streams": 3100, "status": "hipotese" }
+  ]
+}
