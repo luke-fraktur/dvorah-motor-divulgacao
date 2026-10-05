@@ -8,6 +8,26 @@
 
 **Aplicação publicada:** [dvorahai-ezadihcd.manus.space](https://dvorahai-ezadihcd.manus.space)
 
+## Galeria do laboratório
+
+As imagens abaixo são capturas da aplicação publicada e mostram os principais monitores do laboratório. Os valores exibidos são demonstrativos e permanecem identificados como simulações.
+
+| Visão geral | Calculadora contínua |
+|---|---|
+| ![Dashboard do laboratório Dvorah](docs/assets/screenshots/01-dashboard-desktop.jpg) | ![Calculadora de cenários do laboratório Dvorah](docs/assets/screenshots/02-calculadora-desktop.jpg) |
+
+| Caderno de experimentos | Inteligência de público |
+|---|---|
+| ![Caderno de hipóteses e experimentos](docs/assets/screenshots/03-experimentos-desktop.jpg) | ![Módulo de público e cartão público](docs/assets/screenshots/04-publico-desktop.jpg) |
+
+### Comportamento responsivo
+
+O dashboard também foi verificado em viewport mobile, preservando a leitura vertical dos cartões, a imagem de campanha e os indicadores.
+
+![Dashboard Dvorah em viewport mobile](docs/assets/screenshots/05-dashboard-mobile.jpg)
+
+Para consultar os critérios, comandos e resultados registrados, veja [Testes técnicos e evidências de validação](docs/testes-tecnicos.md).
+
 ## Sobre o projeto
 
 O Dvorah — Motor de Divulgação IA é uma extensão prática de um projeto universitário de inovação desenvolvido no **Curso Superior de Tecnologia em Inteligência Artificial**, na disciplina de **Projetos Inovadores**.
@@ -121,6 +141,7 @@ O projeto foi pensado como um ponto de partida para outros estudantes e criadore
 - [Plano reformulado e implementável](docs/plano-reformulado.md)
 - [Referência visual do cartão Linktree](referencia-linktree.md)
 - [Nota acadêmica e limites de divulgação](docs/NOTA-ACADEMICA.md)
+- [Testes técnicos e evidências de validação](docs/testes-tecnicos.md)
 
 ## Autoria e créditos
 
